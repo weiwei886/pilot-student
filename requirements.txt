@@ -1,0 +1,2 @@
+# 本项目使用 Python 标准库即可运行。
+# 如你希望未来改为 requests/python-dotenv，可在此添加。
